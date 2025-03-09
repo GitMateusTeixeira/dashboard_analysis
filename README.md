@@ -13,8 +13,8 @@ Os projetos deste repositório estão na fase de visualização, onde transforma
 - <a href='#tecnologias'>1. Tecnologias</a>
 - <a href='#estrutura-do-repositório'>2. Estrutura do Repositório</a>
 - <a href='#modelos-de-dashboards'>3. Modelos de Dashboards</a>
-    - <a href='#️--dashboard-de-vendas'>3.1. Dashboard de Vendas</a>
-    - <a href='#️--relatório-de-vendas'>3.2. Relatório de Vendas</a>
+    - <a href='#️--dashboard-de-vendas'>3.1. Relatório de Vendas</a>
+    - <a href='#️--relatório-de-vendas'>3.2. Dashboard de Vendas</a>
 - <a href='#sobre-mim'>4. Sobre mim</a> 
 <br><br>
 
@@ -27,33 +27,33 @@ Os projetos deste repositório estão na fase de visualização, onde transforma
 
 ## Estrutura do repositório
 
-➡️ <a href='https://github.com/GitMateusTeixeira/ml_models/tree/main/infnet_clustering_pd'>**dio_sales_dashboard**</a>: Dashboard de Vendas da DIO
+➡️ <a href='https://github.com/GitMateusTeixeira/dashboard_analysis/tree/main/dio_sales_report'>**dio_sales_report**</a>: Relatório de Vendas da DIO
 
-➡️ <a href='https://github.com/GitMateusTeixeira/ml_models/tree/main/infnet_cluster_validation_pd'>**dio_sales_report**</a>: Relatório de Vendas da DIO
+➡️ <a href=''>**dio_sales_dashboard**</a>: Dashboard de Vendas da DIO
 <br><br>
 
 ## Modelos de Dashboards
 
-### ▶️ <img style='width:60px' src='./assets/logo_diov2.png' alt='dio_logo'> <a href='https://github.com/GitMateusTeixeira/ml_models/tree/main/infnet_clustering_pd'>Dashboard de Vendas</a>
+### ▶️ <img style='width:60px' src='./assets/logo_diov2.png' alt='dio_logo'> <a href='https://github.com/GitMateusTeixeira/dashboard_analysis/tree/main/dio_sales_report'>Relatório de Vendas</a>
 
 ⬆️ <a href='#índice'>Voltar ao início</a>
 
-O Dashboard de Vendas da DIO foi desenvolvido para analisar o desempenho comercial da empresa, proporcionando insights estratégicos sobre faturamento, volume de vendas, ticket médio e sazonalidade. O relatório foi estruturado para facilitar a tomada de decisão, consolidando dados relevantes em uma única interface interativa.
+O Relatório de Vendas da DIO foi desenvolvido para analisar o desempenho comercial da empresa, proporcionando insights estratégicos sobre faturamento, volume de vendas, ticket médio e sazonalidade. O relatório foi estruturado para facilitar a tomada de decisão, consolidando dados relevantes em uma única interface interativa.
 
 Durante o desenvolvimento, utilizei Power BI para conectar, transformar e modelar os dados, aplicando medidas DAX para calcular métricas essenciais. Também explorei diferentes tipos de visualizações para garantir que as informações fossem apresentadas de forma clara e intuitiva.
 
 Além disso, aprofundei meus conhecimentos sobre tratamento de dados, integrando diversas fontes e garantindo a consistência das informações. A experiência foi essencial para aprimorar minhas habilidades em ETL (Extract, Transform, Load) e otimização de relatórios interativos.
 
-➡️ <a href='https://github.com/GitMateusTeixeira/ml_models/tree/main/infnet_clustering_pd'>Saiba mais</a>
+➡️ <a href='https://github.com/GitMateusTeixeira/dashboard_analysis/tree/main/dio_sales_report'>Saiba mais</a>
 <br><br>
 
-### ▶️ <img style='width:60px' src='./assets/logo_diov2.png' alt='dio_logo'> <a href='https://github.com/GitMateusTeixeira/ml_models/tree/main/infnet_cluster_validation_pd'>Relatório de Vendas</a>
+### ▶️ <img style='width:60px' src='./assets/logo_diov2.png' alt='dio_logo'> <a href=''>Dashboard de Vendas</a>
 
 ⬆️ <a href='#índice'>Voltar ao início</a>
 
-Breve conceito do que se trata e o que eu aprendi/implementei. Um parágrafo para cada.
+Em andamento.
 
-➡️ <a href='https://github.com/GitMateusTeixeira/ml_models/tree/main/infnet_cluster_validation_pd'>Saiba mais</a>
+➡️ <a href=''>Saiba mais</a>
 <br><br>
 
 ## Sobre mim
